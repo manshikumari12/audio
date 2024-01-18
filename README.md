@@ -51,15 +51,15 @@ Copy code
 npm start
 The application should now be running on the specified port.
 
-API Endpoints
-Courses
-GET /course/courses: Get all courses.
-POST /course/add: Add a new course.
-DELETE /course/delete/:id: Delete a course by ID.
-Audiobooks
-GET /audiobook/audioget: Get all audiobooks.
-POST /audiobook/audioadd: Add a new audiobook.
-GET /audiobook/audiogetBycId/:cid: Get audiobooks by course ID.
-User Registration/Login
-POST /register: Register a new user.
-POST /login: User login.
+API Endpoints<br>
+Courses<br>
+GET /course/courses: Get all courses.<br>
+POST /course/add: Add a new course.<br>
+DELETE /course/delete/:id: Delete a course by ID.<br>
+Audiobooks<br>
+GET /audiobook/audioget: Get all audiobooks.<br>
+POST /audiobook/audioadd: Add a new audiobook.<br>
+GET /audiobook/audiogetBycId/:cid: Get audiobooks by course ID.<br>
+User Registration/Login<br>
+POST /register: Register a new user.<br>
+POST /login: User login.<br>
